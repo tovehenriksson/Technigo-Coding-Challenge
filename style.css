@@ -1,0 +1,26 @@
+/* Example styling of a h1 element */
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  sans-serif;
+}
+
+h1 {
+  color: #4153b6d2;
+  background-color: lavender;
+  width: 60%;
+  border-radius: 30px;
+  text-align: center;
+}
+h2 {
+  color: darkgrey;
+}
+p {
+  width: 60%;
+  margin-bottom: 40px;
+}
+
+.button {
+background-color: lavender;
+color: darkgrey;
+padding: 10px;
+border-radius: 30px;
+}
